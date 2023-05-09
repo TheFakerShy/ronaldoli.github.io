@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-![About Me Photo](/images/about_me_photo.jpeg)
+![About Me Photo](/ronaldoli.github.io/images/about_me_photo.jpeg)
 
 
 ## Something About Me At A Glance
