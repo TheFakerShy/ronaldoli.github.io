@@ -114,5 +114,5 @@ author_profile: true
   - Certification can be validated [here](https://www.credential.net/5fc62651-9eb4-435f-a535-5234e9e6b09c "INCOSE ASEP Certification").
 
 
-![About Me Photo 2](/images/about_me_photo2.jpeg)
+![About Me Photo 2](/ronaldoli.github.io/images/about_me_photo2.jpeg)
 
