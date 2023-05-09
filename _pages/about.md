@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-![Line break](/images/row_separate.png)
+![Line break](/ronaldoli.github.io/images/row_separate.png)
 
 
 ## Aspiring | Innovative | Enthusiastic | Creative | Adaptive
 
-![Home page cover campus](/images/campus_aerial.jpg)
+![Home page cover campus](/ronaldoli.github.io/images/campus_aerial.jpg)
 
 ### Current Cornell Systems Engineering M.Eng Student
 
@@ -21,7 +21,7 @@ redirect_from:
 > “Knowledge gives us a compass, but kindness is what gets us down the road. And to quote an African proverb that one of my mentors was fond of sharing, ‘If you want to go fast, go alone; if you want to go far, go together.’”    -- Cornell President Pollack on the New Student Convocation Speech on Aug. 25, 2021
 
 
-![Performing a presentation of SYSEN 5400 in my 2nd semester at Cornell (Spring 2023)](/images/cover_with_me.jpeg)
+![Performing a presentation of SYSEN 5400 in my 2nd semester at Cornell (Spring 2023)](/ronaldoli.github.io/images/cover_with_me.jpeg)
 
 
 ## Something About Me
