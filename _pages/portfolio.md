@@ -19,9 +19,9 @@ author_profile: true
 
 
 [Click for the project website >>](https://www.cusd.cornell.edu/projects/sen/ "CUSD Sustainable Education") <br>
-[Click to get and read the latest report (Fall 2022) >>](/files/cusd_se_final_fall22.docx)<br>
+[Click to get and read the latest report (Fall 2022) >>](/ronaldoli.github.io/files/cusd_se_final_fall22.docx)<br>
 
-![SEN Group Photo](/images/sen_group_photo.png) <br>
+![SEN Group Photo](/ronaldoli.github.io/images/sen_group_photo.png) <br>
 <center><b>Image 1</b>: Family photo of CUSD-SE members in the Spring 2023 semester.</center><br>
 
 
@@ -40,7 +40,7 @@ author_profile: true
 Final Poster Session (See image below) <br>
 [Final Report (WIP, redirect to Google Search as placeholder)](www.google.com)
 
-![SYSEN 5400 Poster Session](/images/sysen_5400_poster.jpeg)<br>
+![SYSEN 5400 Poster Session](/ronaldoli.github.io/images/sysen_5400_poster.jpeg)<br>
 <center><b>Image 2</b>: Me presenting our team's poster and research work to Dr. Tim Fraser.</center><br>
 
 
