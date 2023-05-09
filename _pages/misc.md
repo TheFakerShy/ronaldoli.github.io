@@ -15,33 +15,33 @@ author_profile: true
 
 ## Some of My Loved Photos (Gallery, or to say!)
 
-![Pic1](/images/pic1.jpg)
+![Pic1](/ronaldoli.github.io/images/pic1.jpg)
 
-![Pic2](/images/pic2.jpg)
+![Pic2](/ronaldoli.github.io/images/pic2.jpg)
 
-![Pic3](/images/pic3.jpg)
+![Pic3](/ronaldoli.github.io/images/pic3.jpg)
 
-![Pic4](/images/pic4.jpg)
+![Pic4](/ronaldoli.github.io/images/pic4.jpg)
 
-![Pic5](/images/pic5.jpg)
+![Pic5](/ronaldoli.github.io/images/pic5.jpg)
 
-![Pic6](/images/pic6.jpg)
+![Pic6](/ronaldoli.github.io/images/pic6.jpg)
 
-![Pic7](/images/pic7.jpg)
+![Pic7](/ronaldoli.github.io/images/pic7.jpg)
 
-![Pic8](/images/pic8.jpg)
+![Pic8](/ronaldoli.github.io/images/pic8.jpg)
 
-![Pic9](/images/pic9.jpg)
+![Pic9](/ronaldoli.github.io/images/pic9.jpg)
 
-![Pic10](/images/pic10.jpg)
+![Pic10](/ronaldoli.github.io/images/pic10.jpg)
 
-![Pic11](/images/pic11.jpg)
+![Pic11](/ronaldoli.github.io/images/pic11.jpg)
 
-![Pic12](/images/pic12.jpg)
+![Pic12](/ronaldoli.github.io/images/pic12.jpg)
 
-![Pic13](/images/pic13.jpg)
+![Pic13](/ronaldoli.github.io/images/pic13.jpg)
 
-![Pic14](/images/pic14.jpg)
+![Pic14](/ronaldoli.github.io/images/pic14.jpg)
 
 ## Some Interesting Videos
 
